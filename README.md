@@ -1,16 +1,16 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/bruna-magalh%C3%A3es-931920218/">
+  <img align="left" alt="Shuvo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/BrunaDev">
+  <img align="left" alt="Shuvo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/Bruna_Magalhaes">
+  <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<br />
 
-<!--
-**BrunaDev/BrunaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Bruna 👩‍💻
 
-Here are some ideas to get you started:
+- 🔭 I am currently a student at the ETEFMC school.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
