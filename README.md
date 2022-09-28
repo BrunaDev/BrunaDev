@@ -11,6 +11,6 @@
 
 ### I am Bruna 👩‍💻
 
-- 🔭 I am currently a student at the engineering college (INATEL).
+- 🔭 I am currently a student at the Faculty of Telecommunications Engineering (INATEL).
 
 
