@@ -9,7 +9,7 @@
 </a>
 <br />
 
-### I am Bruna 👩‍💻
+### Hi, I'm Bruna 👩‍💻
 
 - 🔭 I am currently a student at the Faculty of Telecommunications Engineering (INATEL).
 
