@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/bruna-magalh%C3%A3es-931920218/">
+<a href="https://www.linkedin.com/in/bruna-magalhaess">
   <img align="left" alt="Shuvo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/BrunaDev">
