@@ -1,19 +1,29 @@
-<a href="https://www.linkedin.com/in/bruna-magalhaess" >
-  <img align="left" alt="Shuvo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-<a href="https://github.com/BrunaDev">
-  <img align="left" alt="Shuvo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/Bruna_Magalhaes">
-  <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-</a>
-<br />
-
 ### Hi, I'm Bruna 👩‍💻
+
+<div dsplay="inline-block">
+ <a href="https://www.instagram.com/bruna.magalhaessss/">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a> 
+  <a href="https://x.com/_Dattebayooo_?t=CTvUl5UiTh7-geweG4erBw&s=09">
+    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+  </a>
+  <a href="www.linkedin.com/in/brunamagalhaess">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
+
+<p></p>
 
 - 🔭 Software Engineering Undergraduate - INATEL.
   
 <p></p>
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40" height="40"/> <img loading="lazy" src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" width="40" height="40"/> 
+### 🖥️ Technologies and Tools: 
+<img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" title = "REACT"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" title = "C++"/></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title = "C#"/></code>
