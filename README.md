@@ -7,7 +7,7 @@
   <a href="https://x.com/_Dattebayooo_?t=CTvUl5UiTh7-geweG4erBw&s=09">
     <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
   </a>
-  <a href="www.linkedin.com/in/brunamagalhaess">
+  <a href="https://www.linkedin.com/in/brunamagalhaess">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
