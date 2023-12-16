@@ -1,4 +1,4 @@
-### Hi, I'm Bruna 👩‍💻
+### Hi, I'm Bruna 👩🏻‍💻
 
 <div dsplay="inline-block">
  <a href="https://www.instagram.com/bruna.magalhaessss/">
