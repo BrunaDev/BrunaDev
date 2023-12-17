@@ -4,7 +4,7 @@
  <a href="https://www.instagram.com/bruna.magalhaessss/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
-  <a href="https://x.com/_Dattebayooo_?t=CTvUl5UiTh7-geweG4erBw&s=09">
+  <a href="">
     <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
   </a>
   <a href="https://www.linkedin.com/in/brunamagalhaess">
