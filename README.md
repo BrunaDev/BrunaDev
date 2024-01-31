@@ -26,3 +26,6 @@
 <code><img width="40px" src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" title = "REACT"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" title = "C++"/></code>
 <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title = "C#"/></code>
+
+
+![snake gif](https://github.com/BrunaDev/BrunaDev/blob/output/github-contribution-grid-snake.svg)
