@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://beatrizs97.github.io/Portfolio">
-  <img src="" alt="Portfólio"/>
+<a href="">
+  <img src="https://img.shields.io/badge/Portfólio-C026D3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
 </a>
 <br><br>
 
