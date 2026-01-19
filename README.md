@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://beatrizs97.github.io/Portfolio">
-  <img src="https://img.shields.io/badge/Portfólio-5B8DFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
+  <img src="" alt="Portfólio"/>
 </a>
 <br><br>
 
