@@ -1,26 +1,65 @@
+<img src="https://img.shields.io/badge/✨_Disponível_para_projetos-5865F2?style=for-the-badge" />
+
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E6AE1,30:5B8DFF,70:8FB2FF,100:1E6AE1&height=250&text=Bruna%20Magalhães&animation=twinkling&section=header&textBg=false&desc=Desenvolvimento%20de%20Software%20|%20Front-end%20•%20Design&descSize=0&descAlign=50&descAlignY=60&fontAlignY=38&reversal=false&fontColor=FFFFFF&stroke=f4f4f4"/>
-<br>
 
-<br><br>
+  ![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=300&section=header&text=Bruna%20Magalhães&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Front-end%20Developer%20&%20UI/UX%20Designer&descAlignY=60)
 
-<a href="https://www.linkedin.com/in/brunamagalhaess">
-  <img src="https://img.shields.io/badge/LinkedIn-2176FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+### ✨ Criando interfaces modernas, intuitivas e centradas no usuário
 
-<a href="https://github.com/BrunaDev">
-  <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+Sou apaixonada por transformar ideias em experiências digitais
+simples, elegantes e funcionais.
 
-<a href="">
-  <img src="https://img.shields.io/badge/Portfólio-C026D3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
-</a>
-<br><br>
+<br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5B8DFF&icon_color=2176FF&text_color=E5E7EB&border_radius=10&count_private=false&include_all_commits=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=5B8DFF&text_color=E5E7EB&border_radius=10&count_private=false&include_all_commits=false" />
+<div align="center">
 
-<br><br>
+  <a href="https://github.com/BrunaDev?tab=repositories" style="display:inline-block; width:200px;">
+    <img src="https://img.shields.io/badge/Ver_Projetos-5865F2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E6AE1,30:5B8DFF,70:8FB2FF,100:1E6AE1&height=125&section=footer&reversal=false"/>
+  <a href="https://www.linkedin.com/in/brunamagalhaess" style="display:inline-block; width:200px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://portfolio-rouge-psi-v9cq0qm7m9.vercel.app" style="display:inline-block; width:200px;">
+    <img src="https://img.shields.io/badge/Portfólio-9333EA?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+
+</div>
+
+<br/><br/>
+
+</div>
+
+## 💻 Stack Principal
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+<br/>
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunaDev&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=BrunaDev&color=5865F2)
+  
+  **Obrigada pela visita!** 💜
+
 </div>
