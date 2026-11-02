@@ -21,7 +21,7 @@ simples, elegantes e funcionais.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://portfolio-rouge-psi-v9cq0qm7m9.vercel.app" style="display:inline-block; width:200px;">
+  <a href="https://bruna.is-a.dev/" style="display:inline-block; width:200px;">
     <img src="https://img.shields.io/badge/Portfólio-9333EA?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 
